@@ -1,53 +1,268 @@
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle" width="60%">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=4f86f7&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B!+I%27m+Kumar+Shivam;Jr+DotNet+Developer+from+India;.NET+%7C+SQL+%7C+REST+APIs+%7C+Kendo+UI+%7C+AG+Grid" alt="Typing SVG" />
-      <br>
-      <p>
-        <a href="https://www.linkedin.com/in/kumar-shivam-81a190226/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-4f86f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:kumarshivam0118@gmail">
-          <img src="https://img.shields.io/badge/Gmail-4f86f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-        <a href="https://github.com/similaritshivamgit">
-          <img src="https://img.shields.io/badge/GitHub-4f86f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-        <img src="https://komarev.com/ghpvc/?username=similaritshivamgit&style=for-the-badge&color=4f86f7" alt="Profile views"/>
-      </p>
-      <blockquote>
-        <b>💻 Passionate .NET Developer building real-world solutions. Open to backend roles and full-stack collaborations.</b>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE README                   -->
+<!-- ========================================================= -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kumar-shivam-81a190226) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarshivam0118@gmail.com) 
+<h1 align="center">Hi 👋, I'm Kumar Shivam</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
-![Kendo UI](https://img.shields.io/badge/Kendo_UI-512BD4?style=for-the-badge&logo=progress&logoColor=white)
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=similaritshivamgit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=similaritshivamgit&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=similaritshivamgit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="center">
+.NET Full Stack Developer | React.js Developer | ASP.NET Core | PostgreSQL | REST APIs
+</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=similaritshivamgit&theme=aura&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=4F86F7&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;React.js+Developer;REST+API+Developer;PostgreSQL+Database;Always+Learning+New+Technologies" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=similaritshivamgit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://www.linkedin.com/in/kumar-shivam-81a190226/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kumarshivam0118@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/similaritshivamgit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=similaritshivamgit&style=for-the-badge&color=4F86F7"/>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=similaritshivamgit&icon=4&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
 
+💻 Jr. .NET Full Stack Developer
 
+🚀 Passionate about building scalable enterprise applications.
 
+🌱 Currently learning
+
+- React.js
+- Next.js
+- Docker
+- Microservices
+- Azure
+
+💬 Ask me about
+
+- ASP.NET Core
+- C#
+- React.js
+- PostgreSQL
+- REST APIs
+- Entity Framework Core
+- Kendo UI
+- AG Grid
+
+⚡ Fun Fact
+
+> I enjoy turning complex business requirements into simple, scalable software.
+
+---
+
+# 🚀 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://img.shields.io/badge/Kendo_UI-FF6358?style=for-the-badge&logo=progress&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AG_Grid-0170FE?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=jquery"/>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🌐 Portfolio Website | Personal responsive portfolio with dark theme | React.js, TailwindCSS |
+| 📂 Document Management System | Enterprise DMS with workflow & approval | ASP.NET Core, PostgreSQL, Flutter |
+| 👨‍💼 HRMS | Employee & Payroll Management System | ASP.NET Core, PostgreSQL |
+| 📦 Smart Locker | Locker booking and management | ASP.NET Core |
+| 📱 Lost & Found App | Lost item reporting system | ASP.NET Core, MySQL |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=similaritshivamgit&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=similaritshivamgit&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=similaritshivamgit&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=similaritshivamgit&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=similaritshivamgit&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+✅ React.js
+
+✅ Next.js
+
+✅ Docker
+
+✅ Microservices
+
+✅ Azure
+
+✅ Clean Architecture
+
+---
+
+# 📚 Currently Working On
+
+🔹 Enterprise ASP.NET Core Applications
+
+🔹 React.js Projects
+
+🔹 REST APIs
+
+🔹 PostgreSQL Optimization
+
+🔹 Portfolio Website
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kumarshivam0118@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/kumar-shivam-81a190226">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/similaritshivamgit">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+
+<p align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
