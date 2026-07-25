@@ -34,7 +34,7 @@
 
 # 💫 About Me
 
-💻 Jr. .NET Full Stack Developer
+💻 SDE - 1
 
 🚀 Passionate about building scalable enterprise applications.
 
