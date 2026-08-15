@@ -189,7 +189,7 @@
 </p>
 ---
 
-# 🐍 GitHub Contribution Snake
+# 🐍 GitHub Contribution
 
 <p align="center">
   <picture>
