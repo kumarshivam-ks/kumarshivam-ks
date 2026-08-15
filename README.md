@@ -167,15 +167,24 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarshivam-ks&show_icons=true&theme=tokyonight"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kumarshivam-ks&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshivam-ks&theme=tokyonight"/>
+<img
+  src="https://streak-stats.demolab.com/?user=kumarshivam-ks&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam-ks&layout=compact&theme=tokyonight"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam-ks&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
 </p>
 
@@ -195,7 +204,9 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kumarshivam-ks&theme=algolia&no-frame=true&row=2&column=4"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=kumarshivam-ks&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"
+/>
 
 </p>
 
