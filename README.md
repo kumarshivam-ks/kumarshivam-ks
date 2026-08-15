@@ -34,32 +34,35 @@
 
 # 💫 About Me
 
-💻 SDE - 1
+👨‍💻 **.NET Full Stack Developer** passionate about building scalable and reliable enterprise applications.
 
-🚀 Passionate about building scalable enterprise applications.
+🚀 Experienced in developing **ASP.NET Core Web APIs, React.js applications, and PostgreSQL-based systems** with a focus on clean architecture, performance, and maintainability.
 
-🌱 Currently learning
+💡 I enjoy solving complex business problems and transforming them into **simple, efficient, and scalable software solutions**.
 
-- React.js
-- Next.js
-- Docker
-- Microservices
-- Azure
+🛠️ **Working with**
 
-💬 Ask me about
+* C# & ASP.NET Core
+* React.js & JavaScript
+* PostgreSQL & MongoDB
+* RESTful APIs
+* Entity Framework Core
+* Kafka & Microservices
+* Keycloak & Authentication
+* Kendo UI & AG Grid
+* Docker & Azure
 
-- ASP.NET Core
-- C#
-- React.js
-- PostgreSQL
-- REST APIs
-- Entity Framework Core
-- Kendo UI
-- AG Grid
+🌱 **Currently exploring**
 
-⚡ Fun Fact
+* Microservices Architecture
+* Cloud & Azure
+* Docker & Containerization
+* System Design
+* Scalable Distributed Systems
 
-> I enjoy turning complex business requirements into simple, scalable software.
+⚡ **Fun Fact**
+
+> I enjoy understanding complex business requirements, designing the right solution, and turning them into production-ready applications.
 
 ---
 
@@ -127,6 +130,12 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
+<img src="https://skillicons.dev/icons?i=kafka"/>
+
+<img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+
 </p>
 
 ---
@@ -153,28 +162,28 @@
 
 # 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🌐 Portfolio Website | Personal responsive portfolio with dark theme | React.js, TailwindCSS |
-| 📂 Document Management System | Enterprise DMS with workflow & approval | ASP.NET Core, PostgreSQL, Flutter |
-| 👨‍💼 HRMS | Employee & Payroll Management System | ASP.NET Core, PostgreSQL |
-| 📦 Smart Locker | Locker booking and management | ASP.NET Core |
-| 📱 Lost & Found App | Lost item reporting system | ASP.NET Core, MySQL |
+| Project                           | Description                                                                  | Technologies                       |
+| --------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------- |
+| 🌐 **Portfolio Website**          | Personal portfolio showcasing my experience, projects, and skills            | React.js, ASP.NET Core, PostgreSQL |
+| 📂 **Document Management System** | Enterprise document management platform with workflow and approval processes | React.js, ASP.NET Core, PostgreSQL |
+| 🏢 **Conference Hall Booking**    | Conference hall booking and management system                                | Flutter, ASP.NET Core, PostgreSQL  |
+| 💼 **Payroll Management System**  | Enterprise payroll management system for employee and payroll operations     | React.js, ASP.NET Core, PostgreSQL |
 
 ---
+
 
 # 📈 GitHub Stats
 
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=kumarshivam-ks&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
+src="https://github-readme-stats.vercel.app/api?username=kumarshivam-ks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+width="48%"
 />
 
 <img
-  src="https://streak-stats.demolab.com/?user=kumarshivam-ks&theme=tokyonight&hide_border=true"
-  height="170"
+src="https://streak-stats.demolab.com/?user=kumarshivam-ks&theme=tokyonight&hide_border=true"
+width="48%"
 />
 
 </p>
@@ -182,11 +191,12 @@
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam-ks&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam-ks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+width="48%"
 />
 
 </p>
+
 ---
 
 # 🐍 GitHub Contribution
