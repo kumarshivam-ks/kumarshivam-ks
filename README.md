@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/similaritshivamgit">
+<a href="https://github.com/kumarshivam-ks">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=similaritshivamgit&style=for-the-badge&color=4F86F7"/>
+<img src="https://komarev.com/ghpvc/?username=kumarshivam-ks&style=for-the-badge&color=4F86F7"/>
 
 </p>
 
@@ -167,15 +167,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=similaritshivamgit&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarshivam-ks&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=similaritshivamgit&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshivam-ks&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=similaritshivamgit&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam-ks&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -185,7 +185,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=similaritshivamgit&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarshivam-ks&theme=tokyo-night"/>
 
 </p>
 
@@ -195,7 +195,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=similaritshivamgit&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kumarshivam-ks&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -247,7 +247,7 @@
 
 </a>
 
-<a href="https://github.com/similaritshivamgit">
+<a href="https://github.com/kumarshivam-ks">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
